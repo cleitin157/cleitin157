@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cleitin157
-- 👀 I’m interested in ...
+- 👀 I’m interested in cut hair
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
@@ -21,4 +21,11 @@ O atendimento possui padrão de excelência e agilidade, garantindo qualidade e 
 
 <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
 Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
-Atendemos das 8;30 da manhã ate as 5;00h da tarde
+Atendemos das 8;30 da manhã ate as 5;00h da tarde.
+
+Benefi­cios
+
+    Atendimento aos Clientes
+    Espaço diferenciado
+    Localização
+    Profissionais Qualificados
